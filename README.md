@@ -15,4 +15,9 @@
 - PR 的拉取
 - Issue的提出， 关闭
 ---
+# 0x02. 表格测试
+|No.|Name|Type|
+|:--|:---|---:|
+|1|Mofecx|Owner|
+|2|盐爪爪|Administrator|
 待补充...
