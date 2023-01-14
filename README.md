@@ -1,6 +1,10 @@
 # 0x00. 概况(Overview)
 
+<div align="center">
+
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/Mofecx/TestRepo?color=pink&logo=github&logoColor=black&style=for-the-badge)
+  
+</div>
 
 - 包含 MIT License 的开源许可证
 - 创建了ReadMe.md文档
